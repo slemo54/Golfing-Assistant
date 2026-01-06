@@ -1,0 +1,5 @@
+{
+  "name": "Bookingolf Digital Concierge",
+  "description": "An AI-powered Digital Concierge for Bookingolf.it that helps foreign golfers plan Stay & Play trips in Italy using a simulated RAG architecture.",
+  "requestFramePermissions": []
+}
